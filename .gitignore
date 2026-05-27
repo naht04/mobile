@@ -1,0 +1,49 @@
+# macOS
+.DS_Store
+
+# Python / Django
+**/__pycache__/
+**/*.py[cod]
+*.sqlite3
+*.sqlite3.bak*
+*.sqlite3-journal*
+*.log
+
+# Virtual environments
+venv/
+backend/venv/
+.venv/
+
+# Env files
+.env
+backend/.env
+*.env
+
+# Django media/static generated
+backend/media/
+backend/staticfiles/
+
+# Flutter / Dart
+mobile_app/.dart_tool/
+mobile_app/.packages
+mobile_app/.flutter-plugins
+mobile_app/.flutter-plugins-dependencies
+mobile_app/.metadata
+mobile_app/build/
+mobile_app/.pub-cache/
+mobile_app/.pub/
+
+# Flutter platform build outputs
+mobile_app/android/.gradle/
+mobile_app/android/app/debug/
+mobile_app/android/app/profile/
+mobile_app/android/app/release/
+mobile_app/ios/Flutter/Flutter.framework
+mobile_app/ios/Flutter/Flutter.podspec
+mobile_app/linux/flutter/ephemeral/
+mobile_app/macos/Flutter/ephemeral/
+mobile_app/windows/flutter/ephemeral/
+
+# IDE
+.idea/
+.vscode/
