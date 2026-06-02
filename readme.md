@@ -1,6 +1,6 @@
 # PTIT Connect App
 
-Hệ sinh thái kết nối và truyền thông nội bộ đa nền tảng dành cho cộng đồng sinh viên Học viện Công nghệ Bưu chính Viễn thông (PTIT). Hệ thống được thiết kế theo kiến trúc Client-Server toàn diện, hỗ trợ tương tác và liên lạc thời gian thực hiệu năng cao.
+Ứng dụng kết nối và truyền thông nội bộ đa nền tảng dành cho cộng đồng sinh viên Học viện Công nghệ Bưu chính Viễn thông (PTIT). Hệ thống được thiết kế theo kiến trúc Client-Server toàn diện, hỗ trợ tương tác và liên lạc thời gian thực hiệu năng cao.
 
 ## 🚀 Tính năng nổi bật
 
